@@ -1,8 +1,10 @@
 # wee3-homework-round-up
 
-This repo contains reminders about previous homework.
+This repo contains reminders about previous homework, as well as some new ones.
 
-It is up to you on where you would like to spend your time:
+It is up to you on where you would like to spend your time.
+
+As always, please speak up on slack as soon as you get stuck.
 
 ### Project Invoice  
 https://github.com/TIY-1511/classes_homework#5-project-invoice
