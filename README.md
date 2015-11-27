@@ -6,7 +6,7 @@ It is up to you on where you would like to spend your time.
 
 As always, please speak up on slack as soon as you get stuck.
 
-### Project Invoice  
+### Project Invoice (Classes)
 https://github.com/TIY-1511/classes_homework#5-project-invoice
 
 This focussed on classes   
@@ -22,11 +22,11 @@ https://github.com/TIY-1511/sql_html/blob/master/README.md#homework
 
 I have added a new homework section here. While these topics are important, we will be covering them in the context of Rails in the upcoming weeks. 
 
-### Black Jack (API practice)
+### Black Jack (API)
 
 If you would like to gain experience using APIs then this is for you. Make a Black Jack game that uses the Deck of Cards API - http://deckofcardsapi.com/
 
-### API and ERB
+### Display Cards (API, ERB)
 Use the Deck of Cards API and ERB to create a web page that shows 10 random cards. 
 
 This is not as hard as you may think, shout if you get stuck.
